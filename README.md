@@ -11,8 +11,14 @@ This Python script fetches current weather information from the OpenWeatherMap A
 ## Usage:
 - Obtain API Key: Sign up on OpenWeatherMap to get your API key.
 - Clone the repository or download the `weather_app.py` file.
-- Install the requests library if not already installed by running pip install requests.
-- Run the Script: Execute the Python script `weather_checker.py` in your terminal.
+- Install the requests library if not already installed by running:
+  ```
+  pip3 install requests
+  ```
+- Run the Script: Execute the Python script in your terminal:
+  ```
+  weather_checker.py
+  ```
 - Enter City Name: When prompted, enter the name of the city for which you want to check the weather.
 - View Weather Information: The script will display the current weather condition and temperature for the specified city.
 
