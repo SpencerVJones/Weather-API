@@ -33,5 +33,10 @@ This Python script fetches current weather information from the OpenWeatherMap A
 - **OpenWeatherMap API**: The script leverages the OpenWeatherMap API to retrieve current weather information for a specified city. This API provides various weather data, including temperature, humidity, wind speed, and weather conditions, based on geographical coordinates or city names.
 - **IDE:** PyCharm
 
-## Contributing:
-Contributions to the Weather Checker script are welcome! If you encounter any bugs, have suggestions for improvements, or want to add new features, feel free to contribute.
+## Contributing
+Contributions are welcome! 
+
+### You can contribute by:
+-  Reporting bugs
+-  Suggesting new features
+-  Submitting pull requests to improve the codebase
