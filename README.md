@@ -1,4 +1,8 @@
 # Weather API
+  <div align="left">
+	
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/Weather-API)
+</div>
 This Python script fetches current weather information from the OpenWeatherMap API based on user input of a city name. It utilizes the requests library to send HTTP requests and retrieve JSON-formatted weather data. The user is prompted to enter the name of a city, and the script then makes a request to the OpenWeatherMap API to fetch the weather information for that city.
 
 
